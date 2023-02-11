@@ -1,4 +1,6 @@
-![ProofOfCardano Logo](https://github.com/ProofOfCardano/Projects/raw/main/proofofcardano.jpeg)
+<p align="center" style="margin-bottom: 0px !important;">
+  <img src="https://github.com/ProofOfCardano/Projects/raw/main/proofofcardano.jpeg" alt="ProofOfCardano Logo" align="center">
+</p>
 
 # ProofOfCardano Projects
 
