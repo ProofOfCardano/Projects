@@ -1,4 +1,4 @@
-![ProofOfCardano Logo]()
+![ProofOfCardano Logo](https://github.com/ProofOfCardano/Projects/raw/main/proofofcardano.jpeg)
 
 # ProofOfCardano Projects
 
