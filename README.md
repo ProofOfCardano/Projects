@@ -11,7 +11,7 @@ Every line represents a tracked project.<br />
 <br />
 E.g.:<br />
 <br />
-{"title": "Project", "owner": "Project Owner", "names": ["array", "of", "repositories"]}<br />
+{"title": "Project", "owner": "Project Owner", "names": ["Array", "Of", "Repositories"]}<br />
 <br />
 
 <strong>Title</strong> (required): The project's name.<br />
