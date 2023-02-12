@@ -4,6 +4,7 @@
     {"title": "Yoroi", "owner": "Emurgo", "names": ["yoroi-mobile", "yoroi-frontend", "yoroi-extension-ledger-connect", "yoroi-extension-ledger-connect-handler"]},
     {"title": "Ogmios", "owner": "CardanoSolutions", "names": ["ogmios"]},
     {"title": "MeshJS", "owner": "MeshJs", "names": ["mesh"]},
+    {"title": "Marlowe", "owner": "input-output-hk", "names": ["marlowe-cardano"]},
     {"title": "TxPipe Pallas", "owner": "txpipe", "names": ["pallas"]},
     {"title": "TeddySwap", "owner": "teddy-swap"},
     {"title": "Aiken", "owner": "aiken-lang"},
