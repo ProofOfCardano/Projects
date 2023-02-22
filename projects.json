@@ -30,6 +30,7 @@
     {"title": "Carp", "owner": "dcSpark", "names": ["carp"]},
     {"title": "Cardano Can I Use?", "owner": "dcSpark", "names": ["cardano-caniuse"]},
     {"title": "CF DevPortal", "owner": "cardano-foundation", "names": ["developer-portal"]},
+    {"title": "Teiki", "owner": "teiki-network", "names": ["teiki-protocol", "teiki-index"]},
     {"title": "anetaBTC", "owner": "anetabtc"},
     {"title": "Blockfrost", "owner": "blockfrost"}
   ]
