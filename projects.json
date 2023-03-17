@@ -33,7 +33,8 @@
     {"title": "Teiki", "owner": "teiki-network", "names": ["teiki-protocol", "teiki-index"]},
     {"title": "anetaBTC", "owner": "anetabtc"},
     {"title": "OpShin", "owner": "OpShin"},
-    {"title": "Blockfrost", "owner": "blockfrost"}
-    {"title": "Foreon Network", "owner": "foreondev", "names": ["Foreon-Protocol"]},
+    {"title": "Blockfrost", "owner": "blockfrost"},
+    {"title": "Cardano Open Oracle Protocol", "owner": "mlabs-haskell", "names": ["cardano-open-oracle-protocol"]},
+    {"title": "Foreon Network", "owner": "foreondev", "names": ["Foreon-Protocol"]}
   ]
 }
