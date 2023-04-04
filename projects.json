@@ -35,5 +35,6 @@
     {"title": "OpShin", "owner": "OpShin"},
     {"title": "Blockfrost", "owner": "blockfrost"},
     {"title": "Cardano Open Oracle Protocol", "owner": "mlabs-haskell", "names": ["cardano-open-oracle-protocol"]}
+    {"title": "Bro Clan", "owner": "leo42" , "names" : ["BroClanWallet"]}
   ]
 }
