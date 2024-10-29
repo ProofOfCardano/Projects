@@ -40,6 +40,6 @@
     {"title": "Cardano Client Lib", "owner": "bloxbean", "names": ["cardano-client-lib"]},
     {"title": "Yaci Store", "owner": "bloxbean", "names": ["yaci-store"]},
     {"title": "Yaci", "owner": "bloxbean", "names": ["yaci"]},
-    {"title": "Yaci DevKit", "owner": "bloxbean", "names": ["yaci-devkit"]}, 
+    {"title": "Yaci DevKit", "owner": "bloxbean", "names": ["yaci-devkit"]}
   ]
 }
