@@ -8,7 +8,7 @@
     {"title": "Marlowe", "owner": "input-output-hk", "names": ["marlowe-cardano"]},
     {"title": "Cardano Node", "owner": "IntersectMBO", "names": ["cardano-node"]},
     {"title": "Daedalus", "owner": "input-output-hk", "names": ["daedalus"]},
-    {"title": "Jormungandr", "owner": "input-output-hk", "names": ["jormungandr"]},
+    {"title": "Catalyst", "owner": "input-output-hk", "names": ["catalyst-voices", "hermes", "catalyst-ci", "catalyst-libs", "catalyst-forge", "jormungandr"]},
     {"title": "Hydra", "owner": "input-output-hk", "names": ["hydra"]},
     {"title": "Mithril", "owner": "input-output-hk", "names": ["mithril"]},
     {"title": "Plutus", "owner": "IntersectMBO", "names": ["plutus"]},
