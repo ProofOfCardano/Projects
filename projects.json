@@ -40,6 +40,7 @@
     {"title": "Cardano Open Oracle Protocol", "owner": "mlabs-haskell", "names": ["cardano-open-oracle-protocol"]},
     {"title": "Bro Clan", "owner": "leo42" , "names" : ["BroClanWallet"]},
     {"title": "GovTool", "owner": "IntersectMBO", "names": ["govtool"]},
+    {"title": "Genius Yield", "owner": "geniusyield"}
     {"title": "Cardano Client Lib", "owner": "bloxbean", "names": ["cardano-client-lib"]},
     {"title": "Yaci Store", "owner": "bloxbean", "names": ["yaci-store"]},
     {"title": "Yaci", "owner": "bloxbean", "names": ["yaci"]},
