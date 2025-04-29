@@ -1,14 +1,17 @@
 {
   "projects": [
+    {"title": "Djed Alliance", "owner": "DjedAlliance"},
     {"title": "Spectrum Finance", "owner": "spectrum-finance"},
     {"title": "Yoroi", "owner": "Emurgo", "names": ["yoroi-mobile", "yoroi-frontend", "yoroi-extension-ledger-connect", "yoroi-extension-ledger-connect-handler"]},
     {"title": "Ogmios", "owner": "CardanoSolutions", "names": ["ogmios"]},
+    {"title": "Flux Point Studios", "owner": "Flux-Point-Studios"},
     {"title": "Kupo", "owner": "CardanoSolutions", "names": ["kupo"]},
     {"title": "MeshJS", "owner": "MeshJs", "names": ["mesh"]},
+    {"title": "SIDAN Lab", "owner": "sidan-lab"},
     {"title": "Marlowe", "owner": "input-output-hk", "names": ["marlowe-cardano"]},
     {"title": "Cardano Node", "owner": "IntersectMBO", "names": ["cardano-node"]},
     {"title": "Daedalus", "owner": "input-output-hk", "names": ["daedalus"]},
-    {"title": "Jormungandr", "owner": "input-output-hk", "names": ["jormungandr"]},
+    {"title": "Catalyst", "owner": "input-output-hk", "names": ["catalyst-voices", "hermes", "catalyst-ci", "catalyst-libs", "catalyst-forge", "jormungandr"]},
     {"title": "Hydra", "owner": "input-output-hk", "names": ["hydra"]},
     {"title": "Mithril", "owner": "input-output-hk", "names": ["mithril"]},
     {"title": "Plutus", "owner": "IntersectMBO", "names": ["plutus"]},
@@ -41,5 +44,7 @@
     {"title": "Yaci Store", "owner": "bloxbean", "names": ["yaci-store"]},
     {"title": "Yaci", "owner": "bloxbean", "names": ["yaci"]},
     {"title": "Yaci DevKit", "owner": "bloxbean", "names": ["yaci-devkit"]}
+    {"title": "Grabbit", "owner": "ikigai-github", "names": ["grabbit-documentation", "grabbit-smart-contracts"]},
+    {"title": "Mintun", "owner": "ikigai-github", "names": ["mintun-contracts"]}
   ]
 }
