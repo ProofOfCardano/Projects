@@ -1,19 +1,22 @@
 {
   "projects": [
+    {"title": "Djed Alliance", "owner": "DjedAlliance"},
     {"title": "Spectrum Finance", "owner": "spectrum-finance"},
     {"title": "Yoroi", "owner": "Emurgo", "names": ["yoroi-mobile", "yoroi-frontend", "yoroi-extension-ledger-connect", "yoroi-extension-ledger-connect-handler"]},
     {"title": "Ogmios", "owner": "CardanoSolutions", "names": ["ogmios"]},
+    {"title": "Flux Point Studios", "owner": "Flux-Point-Studios"},
     {"title": "Kupo", "owner": "CardanoSolutions", "names": ["kupo"]},
     {"title": "MeshJS", "owner": "MeshJs", "names": ["mesh"]},
+    {"title": "SIDAN Lab", "owner": "sidan-lab"},
     {"title": "Marlowe", "owner": "input-output-hk", "names": ["marlowe-cardano"]},
-    {"title": "Cardano Node", "owner": "input-output-hk", "names": ["cardano-node"]},
+    {"title": "Cardano Node", "owner": "IntersectMBO", "names": ["cardano-node"]},
     {"title": "Daedalus", "owner": "input-output-hk", "names": ["daedalus"]},
-    {"title": "Jormungandr", "owner": "input-output-hk", "names": ["jormungandr"]},
+    {"title": "Catalyst", "owner": "input-output-hk", "names": ["catalyst-voices", "hermes", "catalyst-ci", "catalyst-libs", "catalyst-forge", "jormungandr"]},
     {"title": "Hydra", "owner": "input-output-hk", "names": ["hydra"]},
     {"title": "Mithril", "owner": "input-output-hk", "names": ["mithril"]},
-    {"title": "Plutus", "owner": "input-output-hk", "names": ["plutus"]},
-    {"title": "Plutus Apps", "owner": "input-output-hk", "names": ["plutus-apps"]},
-    {"title": "Cardano DbSync", "owner": "input-output-hk", "names": ["cardano-db-sync"]},
+    {"title": "Plutus", "owner": "IntersectMBO", "names": ["plutus"]},
+    {"title": "Plutus Apps", "owner": "IntersectMBO", "names": ["plutus-apps"]},
+    {"title": "Cardano DbSync", "owner": "IntersectMBO", "names": ["cardano-db-sync"]},
     {"title": "Pallas", "owner": "txpipe", "names": ["pallas"]},
     {"title": "Oura", "owner": "txpipe", "names": ["oura"]},
     {"title": "Scrolls", "owner": "txpipe", "names": ["scrolls"]},
@@ -37,5 +40,13 @@
     {"title": "Cardano Open Oracle Protocol", "owner": "mlabs-haskell", "names": ["cardano-open-oracle-protocol"]},
     {"title": "Bro Clan", "owner": "leo42" , "names" : ["BroClanWallet"]},
     {"title": "Vibrant", "owner": "nilscodes" , "names" : ["cardano-spo-scripts", "hazelnet", "reach-your-people"]}
+    {"title": "GovTool", "owner": "IntersectMBO", "names": ["govtool"]},
+    {"title": "Genius Yield", "owner": "geniusyield"}
+    {"title": "Cardano Client Lib", "owner": "bloxbean", "names": ["cardano-client-lib"]},
+    {"title": "Yaci Store", "owner": "bloxbean", "names": ["yaci-store"]},
+    {"title": "Yaci", "owner": "bloxbean", "names": ["yaci"]},
+    {"title": "Yaci DevKit", "owner": "bloxbean", "names": ["yaci-devkit"]}
+    {"title": "Grabbit", "owner": "ikigai-github", "names": ["grabbit-documentation", "grabbit-smart-contracts"]},
+    {"title": "Mintun", "owner": "ikigai-github", "names": ["mintun-contracts"]}
   ]
 }
