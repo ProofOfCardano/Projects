@@ -48,6 +48,7 @@
     {"title": "Yaci DevKit", "owner": "bloxbean", "names": ["yaci-devkit"]},
     {"title": "Grabbit", "owner": "ikigai-github", "names": ["grabbit-documentation", "grabbit-smart-contracts"]},
     {"title": "Mintun", "owner": "ikigai-github", "names": ["mintun-contracts"]},
-    {"title": "Permanentum", "owner": "evolute-software" , "names": ["permanentum"]}
+    {"title": "Permanentum", "owner": "evolute-software" , "names": ["permanentum"]},
+    {"title": "Midgard", "owner": "Anastasia-Labs"}
   ]
 }
