@@ -51,6 +51,14 @@
     {"title": "Permanentum", "owner": "evolute-software" , "names": ["permanentum"]},
     {"title": "Kuber", "owner": "dquadrant" , "names": ["kuber"]},
     {"title": "Cardano API", "owner": "cardanoapi"},
-    {"title": "Midgard", "owner": "Anastasia-Labs"}
+    {"title": "Midgard", "owner": "Anastasia-Labs"},
+    {"title": "Chrysalis", "owner": "SAIB-Inc", "names": ["chrysalis"]},
+    {"title": "Argus", "owner": "SAIB-Inc", "names": ["argus"]},
+    {"title": "Razor", "owner": "SAIB-Inc", "names": ["razor"]},
+    {"title": "Cardano.Metadata", "owner": "SAIB-Inc", "names": ["cardano.metadata"]},
+    {"title": "Cardano Open Metadata Project", "owner": "SAIB-Inc", "names": ["comp"]},
+    {"title": "Buriza", "owner": "SAIB-Inc", "names": ["buriza"]},
+    {"title": "Swyp", "owner": "SAIB-Inc", "names": ["swyp"]},
+    {"title": "SAIB Inc.", "owner": "SAIB-Inc", "names": ["docs.saib.dev", "cardanosharp-wallet", "website"]}
   ]
 }
