@@ -50,6 +50,13 @@
     {"title": "Mintun", "owner": "ikigai-github", "names": ["mintun-contracts"]},
     {"title": "Permanentum", "owner": "evolute-software" , "names": ["permanentum"]},
     {"title": "Kuber", "owner": "dquadrant" , "names": ["kuber"]},
-    {"title": "Cardano API", "owner": "cardanoapi"}
+    {"title": "Cardano API", "owner": "cardanoapi"},
+    {"title": "Chrysalis", "owner": "SAIB-Inc", "names": ["chrysalis"]},
+    {"title": "Argus", "owner": "SAIB-Inc", "names": ["argus"]},
+    {"title": "Razor", "owner": "SAIB-Inc", "names": ["razor"]},
+    {"title": "Cardano.Metadata", "owner": "SAIB-Inc", "names": ["cardano.metadata"]},
+    {"title": "Buriza", "owner": "SAIB-Inc", "names": ["buriza"]},
+    {"title": "Docs.saib.dev", "owner": "SAIB-Inc", "names": ["docs.saib.dev"]},
+    {"title": "Cardanosharp-wallet", "owner": "SAIB-Inc", "names": ["cardanosharp-wallet"]}
   ]
 }
