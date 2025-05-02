@@ -50,6 +50,7 @@
     {"title": "Mintun", "owner": "ikigai-github", "names": ["mintun-contracts"]},
     {"title": "Permanentum", "owner": "evolute-software" , "names": ["permanentum"]},
     {"title": "Kuber", "owner": "dquadrant" , "names": ["kuber"]},
-    {"title": "Cardano API", "owner": "cardanoapi"}
+    {"title": "Cardano API", "owner": "cardanoapi"},
+    {"title": "Midgard", "owner": "Anastasia-Labs"}
   ]
 }
