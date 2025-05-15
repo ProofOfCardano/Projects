@@ -60,6 +60,7 @@
     {"title": "Buriza", "owner": "SAIB-Inc", "names": ["buriza"]},
     {"title": "Swyp", "owner": "SAIB-Inc", "names": ["swyp"]},
     {"title": "SAIB Inc.", "owner": "SAIB-Inc", "names": ["docs.saib.dev", "cardanosharp-wallet", "website"]},
-    {"title": "Hydrozoa", "owner": "cardano-hydrozoa"}
+    {"title": "Hydrozoa", "owner": "cardano-hydrozoa"},
+    {"title": "Tx3", "owner": "TxPipe", "names": "tx3"}
   ]
 }
