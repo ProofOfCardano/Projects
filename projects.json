@@ -61,6 +61,20 @@
     {"title": "Swyp", "owner": "SAIB-Inc", "names": ["swyp"]},
     {"title": "SAIB Inc.", "owner": "SAIB-Inc", "names": ["docs.saib.dev", "cardanosharp-wallet", "website"]},
     {"title": "Hydrozoa", "owner": "cardano-hydrozoa"},
-    {"title": "Tx3", "owner": "TxPipe", "names": ["tx3"]}
+    {"title": "Tx3", "owner": "TxPipe", "names": ["tx3"]},
+    {"title": "Adder", "owner": "blinklabs-io", "names": ["adder", "adder-library-starter-kit", "adder-mobile", "adder-webhook-starter-kit"]},
+    {"title": "Bluefin", "owner": "blinklabs-io", "names": ["bluefin", "merkle-patricia-forestry"]},
+    {"title": "Bursa", "owner": "blinklabs-io", "names": ["bursa"]},
+    {"title": "Blink Labs DevOps", "owner": "blinklabs-io", "names": ["ansible-cardano", "cardano-compose-stacks", "helm-charts", "homebrew-cardano", "terraform-modules"]},
+    {"title": "Blink Labs Docker", "owner": "blinklabs-io", "names": ["docker-amaru", "docker-cardano-cli", "docker-cardano-configs", "docker-cardano-db-sync", "docker-cardano-node", "docker-cardano-wallet", "docker-go", "docker-haskell", "docker-hydra-node", "docker-mithril-client", "docker-mithril-signer"]},
+    {"title": "cDNSd", "owner": "blinklabs-io", "names": ["cardano-dns", "cdnsd"]},
+    {"title": "Cardano Node API", "owner": "blinklabs-io", "names": ["cardano-node-api"]},
+    {"title": "Cardano Up", "owner": "blinklabs-io", "names": ["cardano-up", "cardano-up-packages"]},
+    {"title": "Dingo", "owner": "blinklabs-io", "names": ["dingo"]},
+    {"title": "gOuroboros", "owner": "blinklabs-io", "names": ["gouroboros", "gouroboros-starter-kit", "cardano-models", "ouroboros-mock"]},
+    {"title": "nview", "owner": "blinklabs-io", "names": ["nview"]},
+    {"title": "Plutigo", "owner": "blinklabs-io", "names": ["plutigo"]},
+    {"title": "Tx Submit API", "owner": "blinklabs-io", "names": ["tx-submit-api", "tx-submit-api-mirror"]},
+    {"title": "TxTop", "owner": "blinklabs-io", "names": ["txtop"]}
   ]
 }
