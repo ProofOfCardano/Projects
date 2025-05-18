@@ -75,6 +75,8 @@
     {"title": "nview", "owner": "blinklabs-io", "names": ["nview"]},
     {"title": "Plutigo", "owner": "blinklabs-io", "names": ["plutigo"]},
     {"title": "Tx Submit API", "owner": "blinklabs-io", "names": ["tx-submit-api", "tx-submit-api-mirror"]},
-    {"title": "TxTop", "owner": "blinklabs-io", "names": ["txtop"]}
+    {"title": "TxTop", "owner": "blinklabs-io", "names": ["txtop"]},
+    {"title": "NMKR", "owner": "nftmakerio"},
+    {"title": "Masumi", "owner": "masumi-network"}
   ]
 }
