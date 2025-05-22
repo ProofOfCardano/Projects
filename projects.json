@@ -14,6 +14,7 @@
     {"title": "Catalyst", "owner": "input-output-hk", "names": ["catalyst-voices", "hermes", "catalyst-ci", "catalyst-libs", "catalyst-forge", "jormungandr"]},
     {"title": "Hydra", "owner": "input-output-hk", "names": ["hydra"]},
     {"title": "Mithril", "owner": "input-output-hk", "names": ["mithril"]},
+    {"title": "Acropolis", "owner": "input-output-hk", "names": ["caryatid", "acropolis"]},
     {"title": "Plutus", "owner": "IntersectMBO", "names": ["plutus"]},
     {"title": "Plutus Apps", "owner": "IntersectMBO", "names": ["plutus-apps"]},
     {"title": "Cardano DbSync", "owner": "IntersectMBO", "names": ["cardano-db-sync"]},
