@@ -1,5 +1,11 @@
 {
   "projects": [
+    {"title": "CardanoVSC", "owner": "AIQUANT-Tech", "names": ["CardanoVSC"]},
+    {"title": "Cardano Review and Reputation", "owner": "AIQUANT-Tech", "names": ["CardanoRnR"]},
+    {"title": "Hummingbot Connector", "owner": "AIQUANT-Tech", "names": ["HummingbotGateway", "hummingbot"]},
+    {"title": "CardanoPyC", "owner": "AIQUANT-Tech", "names": ["CardanoPyC"]},
+    {"title": "CardanoJ", "owner": "CardanoJ", "names": ["cardanoJ"]},
+    {"title": "Hotel Guest Experience", "owner": "AIQUANT-Tech", "names": ["HGE_SC"]},
     {"title": "Djed Alliance", "owner": "DjedAlliance"},
     {"title": "Spectrum Finance", "owner": "spectrum-finance"},
     {"title": "Yoroi", "owner": "Emurgo", "names": ["yoroi-mobile", "yoroi-frontend", "yoroi-extension-ledger-connect", "yoroi-extension-ledger-connect-handler"]},
