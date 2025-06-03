@@ -78,6 +78,7 @@
     {"title": "TxTop", "owner": "blinklabs-io", "names": ["txtop"]},
     {"title": "NMKR", "owner": "nftmakerio"},
     {"title": "Masumi", "owner": "masumi-network"},
+    {"title": "Lace", "owner": "input-output-hk", "names": ["lace"]},
     {"title": "PaylKoyn", "owner": "SAIB-Inc", "names": ["paylkoyn"]}
   ]
 }
