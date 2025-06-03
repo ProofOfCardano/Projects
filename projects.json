@@ -77,6 +77,7 @@
     {"title": "Tx Submit API", "owner": "blinklabs-io", "names": ["tx-submit-api", "tx-submit-api-mirror"]},
     {"title": "TxTop", "owner": "blinklabs-io", "names": ["txtop"]},
     {"title": "NMKR", "owner": "nftmakerio"},
-    {"title": "Masumi", "owner": "masumi-network"}
+    {"title": "Masumi", "owner": "masumi-network"},
+    {"title": "PaylKoyn", "owner": "SAIB-Inc", "names": ["paylkoyn"]}
   ]
 }
