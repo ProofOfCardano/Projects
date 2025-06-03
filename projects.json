@@ -39,7 +39,7 @@
     {"title": "Cardano Multiplatform Lib", "owner": "dcSpark", "names": ["cardano-multiplatform-lib"]},
     {"title": "Carp", "owner": "dcSpark", "names": ["carp"]},
     {"title": "Cardano Can I Use?", "owner": "dcSpark", "names": ["cardano-caniuse"]},
-    {"title": "CF DevPortal", "owner": "cardano-foundation", "names": ["developer-portal"]},
+    {"title": "Cardano Foundation", "owner": "cardano-foundation", "names": ["developer-portal", "cardano-org", "veridian-wallet", "cardano-wallet", "cardano-rosetta-java", "antithesis", "cf-reeve-platform"]},
     {"title": "Teiki", "owner": "teiki-network", "names": ["teiki-protocol", "teiki-index"]},
     {"title": "anetaBTC", "owner": "anetabtc"},
     {"title": "OpShin", "owner": "OpShin"},
