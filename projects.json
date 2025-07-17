@@ -68,7 +68,7 @@
     {"title": "Swyp", "owner": "SAIB-Inc", "names": ["swyp"]},
     {"title": "SAIB Inc.", "owner": "SAIB-Inc", "names": ["docs.saib.dev", "cardanosharp-wallet", "website"]},
     {"title": "Hydrozoa", "owner": "cardano-hydrozoa"},
-    {"title": "Tx3", "owner": "TxPipe", "names": ["tx3", "trix", "lsp", "up", "vscode-tx3", "web-sdk", "python-sdk", "go-sdk", "rust-sdk", "mcp", "registry", "tx3-hydra", "hydra-app-example", "toolchain", "docs"]},
+    {"title": "Tx3", "owner": "tx3-lang", "names": ["tx3", "trix", "lsp", "up", "vscode-tx3", "web-sdk", "python-sdk", "go-sdk", "rust-sdk", "mcp", "registry", "tx3-hydra", "hydra-app-example", "toolchain", "docs"]},
     {"title": "Adder", "owner": "blinklabs-io", "names": ["adder", "adder-library-starter-kit", "adder-mobile", "adder-webhook-starter-kit"]},
     {"title": "Bluefin", "owner": "blinklabs-io", "names": ["bluefin", "merkle-patricia-forestry"]},
     {"title": "Bursa", "owner": "blinklabs-io", "names": ["bursa"]},
