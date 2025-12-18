@@ -90,5 +90,6 @@
     {"title": "Lace", "owner": "input-output-hk", "names": ["lace"]},
     {"title": "PaylKoyn", "owner": "SAIB-Inc", "names": ["paylkoyn"]},
     {"title": "Evolution SDK", "owner": "no-witness-labs", "names": ["evolution-sdk"]}
+    {"title": "Leios", "owner": "input-output-hk", "names": ["ouroboros-leios", "ouroboros-leios-formal-spec"]},
   ]
 }
