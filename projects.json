@@ -85,5 +85,11 @@
     {"title": "Evolution SDK", "owner": "no-witness-labs", "names": ["evolution-sdk"]},
     {"title": "Amaru", "owner": "pragma-org", "names": ["amaru", "uplc"]},
     {"title": "Cexplorer.io", "owner": "vellum-labs", "names": ["cexplorer-fe","cexplorer-api","cexplorer-sdk","cexplorer-mini"]}
+    {"title": "CNT Collector Node", "owner": "orcfax", "names": ["cnt-collector-node"]},
+    {"title": "Subbit", "owner": "kompact-io", "names": ["subbit.xyz"]},
+    {"title": "Simple Sign", "owner": "orcfax", "names": ["simple-sign"]},
+    {"title": "Orcfax CER Feeds", "owner": "orcfax", "names": ["cer-feeds"]},
+    {"title": "Orcfax Explorer", "owner": "orcfax", "names": ["explorer.orcfax.io"]},
+    {"title": "Oracle Suite", "owner": "orcfax", "names": ["oracle-suite"]}
   ]
 }
