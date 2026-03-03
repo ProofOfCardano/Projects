@@ -84,6 +84,7 @@
     {"title": "Lace", "owner": "input-output-hk", "names": ["lace"]},
     {"title": "Evolution SDK", "owner": "no-witness-labs", "names": ["evolution-sdk"]},
     {"title": "Amaru", "owner": "pragma-org", "names": ["amaru", "uplc"]},
-    {"title": "Cexplorer.io", "owner": "vellum-labs", "names": ["cexplorer-fe","cexplorer-api","cexplorer-sdk","cexplorer-mini"]}
+    {"title": "Cexplorer.io", "owner": "vellum-labs", "names": ["cexplorer-fe","cexplorer-api","cexplorer-sdk","cexplorer-mini"]},
+    {"title": "Leios", "owner": "input-output-hk", "names": ["ouroboros-leios", "ouroboros-leios-formal-spec"]}
   ]
 }
